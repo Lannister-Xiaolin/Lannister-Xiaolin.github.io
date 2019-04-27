@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 深度学习之路
 
-You can use the [editor on GitHub](https://github.com/Lannister-Xiaolin/Lannister-Xiaolin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 第一章  深度学习基础
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 第二章 机器学习
 
-### 深度学习笔记
+## 第三章  优化
 
-个人深度学习笔记
+## 第四章  计算机视觉
 
-```markdown
-Syntax highlighted code block
+## 第五章  NLP
 
-# Header 1
-## Header 2
-### Header 3
+## 第六章  无监督学习
 
-- Bulleted
-- List
+## 第七章 部署以及其他
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lannister-Xiaolin/Lannister-Xiaolin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 第八章 数学基础
